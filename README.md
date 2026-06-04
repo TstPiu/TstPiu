@@ -2,5 +2,5 @@
 
 - I am currently working as an QA
 
-- Current Ongoing Product
+- Current working on Product
 - CtrlOps - https://ctrlops.io/
