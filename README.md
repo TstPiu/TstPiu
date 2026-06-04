@@ -1,6 +1,6 @@
 ## Hi there, I'am Priyanka 👋
 
-- I am currently working as an QA
+- I am currently working as an
 QA Engineer | Test Automation | Playwright | Selenium | API Testing 
 Passionate about building reliable, scalable, and high-quality software through automation and continuous testing.
 
