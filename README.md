@@ -2,6 +2,6 @@
 
 - I am currently working as an QA
 
-## Operating System & Tools
+## Tools
 
-- [![CtrlOps](https://ctrlops.io/icon.png?icon.0uaxwanohxicv.png)](https://ctrlops.io/)
+- [![CtrlOps](https://cdn.ctrlops.io/website/logo.png)](https://ctrlops.io/)
